@@ -1,0 +1,32 @@
+# Assets (video hosted via user-attachments)
+assets/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Arduino IDE
+*.autosave
+*.bak
+*~
+
+# Build files
+build/
+*.hex
+*.elf
+*.bin
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
