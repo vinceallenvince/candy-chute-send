@@ -1,6 +1,6 @@
 # Candy Chute Send
 
-An Arduino-based Halloween candy chute. Boo!
+An Arduino-based Halloween candy chute. This is the **send** end. Boo!
 
 ## Demo
 
